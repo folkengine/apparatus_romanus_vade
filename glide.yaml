@@ -1,4 +1,4 @@
-package: github.com/folkengine/apparatus_romanus_vade
+package: github.com/folkengine/vade
 import:
 - package: github.com/urfave/cli
   version: ^1.19.1
