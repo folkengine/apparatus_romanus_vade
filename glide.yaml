@@ -1,4 +1,9 @@
 package: github.com/folkengine/vade
+license: GPL3
+owners:
+- name: Chris Baker
+  email: ignatz@gmail.com
+  homepage: http://github.com/folkengine
 import:
 - package: github.com/urfave/cli
   version: ^1.19.1
