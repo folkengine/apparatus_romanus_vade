@@ -1,6 +1,8 @@
-hash: f4a31cbc13b74714514ec65a02fd2d45e69733f74676050dcff500444ff61cc0
-updated: 2017-06-07T09:02:22.700379491-04:00
+hash: e90ae59ce779eba9b7c6d3b78412e64bee78da06d5538fb1469f45c4c7dbfeef
+updated: 2017-06-07T09:07:45.757007896-04:00
 imports:
+- name: github.com/onsi/ginkgo
+  version: 77a8c1e5c40d6bb6c5eb4dd4bdce9763564f6298
 - name: github.com/urfave/cli
   version: 0bdeddeeb0f650497d603c4ad7b20cfe685682f6
 testImports: []
