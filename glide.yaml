@@ -2,5 +2,6 @@ package: github.com/folkengine/vade
 import:
 - package: github.com/urfave/cli
   version: ^1.19.1
+testImport:
 - package: github.com/onsi/ginkgo
   version: ^1.3.1
